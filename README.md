@@ -1,12 +1,10 @@
-<img align="right" src="https://static.wikia.nocookie.net/typemoon/images/f/fb/BerserkerCC.png/revision/latest/scale-to-width-down/400?cb=20141229150146"/>
+<img align="right" src="https://static.wikia.nocookie.net/typemoon/images/f/fb/BerserkerCC.png/revision/latest/scale-to-width-down/400?cb=20141229150146" width="350" height="370"/>
 
-
-### 我很normal（Message from Alphaly2K）
 ![:Alphaly2K](https://count.getloli.com/get/@Alphaly2K?theme=gelbooru)
 ## 编程习惯
 ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Alphaly2K&layout=compact)
 
-<img src="https://cloud.alphaly.net/api/v3/file/get/6/Ilya_saber_lily.png?sign=764cvLECClGs0CyoC8lLTlLyNgYhAOKCmLo9gOuxm_8%3D%3A0" align="left"/>
+<img src="https://cloud.alphaly.net/api/v3/file/get/6/Ilya_saber_lily.png?sign=764cvLECClGs0CyoC8lLTlLyNgYhAOKCmLo9gOuxm_8%3D%3A0" align="left" width="270"/>
 
 ## 正在使用
 - [![Go](https://img.shields.io/badge/-Go-00ACD7?style=flat-square&logo=Go&logoColor=fff)](https://golang.org) [![CSharp](https://img.shields.io/badge/C%23-0B9E0B.svg?style=flat-square&logo=csharp&logoColor=fff)](https://docs.microsoft.com/en-us/dotnet/csharp/) [![Java](https://img.shields.io/badge/Java-E61F24.svg?style=flat-square&logo=java&logoColor=fff)](https://www.java.com)
