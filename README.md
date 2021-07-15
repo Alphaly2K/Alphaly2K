@@ -7,7 +7,7 @@
 <img src="https://cloud.alphaly.net/api/v3/file/get/6/Ilya_saber_lily.png?sign=764cvLECClGs0CyoC8lLTlLyNgYhAOKCmLo9gOuxm_8%3D%3A0" align="left" width="270"/>
 
 ## 正在使用
-- [![Go](https://img.shields.io/badge/-Go-00ACD7?style=flat-square&logo=Go&logoColor=fff)](https://golang.org) [![CSharp](https://img.shields.io/badge/C%23-0B9E0B.svg?style=flat-square&logo=csharp&logoColor=fff)](https://docs.microsoft.com/en-us/dotnet/csharp/) [![Java](https://img.shields.io/badge/Java-E61F24.svg?style=flat-square&logo=java&logoColor=fff)](https://www.java.com)
+- [![Go](https://img.shields.io/badge/-Go-00ACD7?style=flat-square&logo=Go&logoColor=fff)](https://golang.org) [![CSharp](https://img.shields.io/badge/C%23-0B9E0B.svg?style=flat-square&logo=csharp&logoColor=fff)](https://docs.microsoft.com/en-us/dotnet/csharp/) [![Java](https://img.shields.io/badge/Java-E61F24.svg?style=flat-square&logo=java&logoColor=fff)](https://www.java.com) [![C++](https://img.shields.io/badge/C++-649ad2.svg?style=flat-square&logo=cplusplus&logoColor=fff)](https://www.cplusplus.com/)
 - [![.NET](https://img.shields.io/badge/.Net-512BD4.svg?style=flat-square&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 - [![Windows](https://img.shields.io/badge/Windows11-0078d7?style=flat-square&logo=windows&logoColor=fff)](https://blogs.windows.com/)  [![CentOS](https://img.shields.io/badge/-CentOS-262474?logo=centos&style=flat-square)](https://www.centos.org/)
 - [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
