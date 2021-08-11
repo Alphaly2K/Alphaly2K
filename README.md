@@ -4,6 +4,7 @@
 ## 编程习惯
 ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Alphaly2K&layout=compact)
 
+这个我给你讲啊，他不准（
 <img src="https://cloud.alphaly.net/api/v3/file/get/6/Ilya_saber_lily.png?sign=764cvLECClGs0CyoC8lLTlLyNgYhAOKCmLo9gOuxm_8%3D%3A0" align="left" width="270"/>
 
 ## 正在使用
