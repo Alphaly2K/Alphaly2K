@@ -4,7 +4,7 @@
 - I can only speak Chinese, English and little Japanese(maybe some Esperanto, too).
 - Now I'm a DotNet developer and concentrate on Desktop Development.
 - Nowadays, I cannot contribute frequently due to the stress from studying.
-##### **For the Chinese version for this README file, please click [here](i18n/README_zh-cn)**
+##### **For the Chinese version for this README file, please click [here](i18n/README_zh-cn.md)**
 ### GitHub Status
 [![Anrag's github stats](https://github-readme-stats.vercel.app/api?username=alphaly2k)](https://github.com/anuraghazra/github-readme-stats)
 ### The tools I'm using
