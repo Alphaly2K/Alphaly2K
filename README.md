@@ -1,6 +1,6 @@
 ## Hi there 👋
 - I am a junior high school student from China.
-- I'm learning C++ now.
+- I'm learning C++ and Rust now.
 - I can only speak Chinese, English and little Japanese(maybe some Esperanto, too).
 - Now I'm a DotNet developer and concentrate on Desktop Development.
 - Nowadays, I cannot contribute frequently due to the stress from studying.
