@@ -5,6 +5,11 @@
 - Now I'm a DotNet developer and concentrate on Desktop Development.
 - Nowadays, I cannot contribute frequently due to the stress from studying.
 ##### **For the Chinese version for this README file, please click [here](i18n/README_zh-cn.md)(but less information)**
+## Genshin Impact（原来你也玩原神？）
+![](https://genshin-card.getloli.com/12/217609436.png)
+
+##### But actually, most of the time is offline. I'm not enthusiastic about official game recently. On BiliBili ver now.
+##### UID 501639243
 ### GitHub Status
 [![Anrag's github stats](https://github-readme-stats.vercel.app/api?username=alphaly2k)](https://github.com/anuraghazra/github-readme-stats)
 ### The tools I'm using
