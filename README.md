@@ -20,4 +20,3 @@
 ### Contacts
 - Tencent OICQ:1990369867
 - E-mail Address:admin@alphaly.cn
-- Twitter:@Alphaly2K
