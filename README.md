@@ -1,6 +1,7 @@
 ## Hi there 👋
 - I am a senior high school student from China.
 - I'm learning C++ and Rust now.
+- OIer(?)
 - I can speak Chinese, English and little Japanese(maybe some Esperanto, too).
 - Now I'm a DotNet developer and concentrate on Desktop Development.
 - Nowadays, I cannot contribute frequently due to the stress from studying.
