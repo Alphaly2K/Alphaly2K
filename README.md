@@ -3,8 +3,6 @@
 - I'm learning C++ and Rust now.
 - I can speak Chinese, English and little Japanese(maybe some Esperanto, too).
 - Now I'm a DotNet developer and concentrate on Desktop Development.
-- Nowadays, I cannot contribute frequently due to the stress from studying.
-- These days, I'm busy preparing for graduating.
 ### Genshin Impact
 ![](https://genshin-card.getloli.com/12/217609436.png)
 ### GitHub Status
