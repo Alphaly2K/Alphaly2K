@@ -1,16 +1,12 @@
 ## Hi there 👋
 - I am a senior high school student from China.
 - I'm learning C++ and Rust now.
-- OIer(?)
 - I can speak Chinese, English and little Japanese(maybe some Esperanto, too).
 - Now I'm a DotNet developer and concentrate on Desktop Development.
 - Nowadays, I cannot contribute frequently due to the stress from studying.
 - These days, I'm busy preparing for graduating.
-##### **For the Chinese version for this README file, please click [here](i18n/README_zh-cn.md)(but less information)**
 ### Genshin Impact
 ![](https://genshin-card.getloli.com/12/217609436.png)
-
-##### But actually, study most of time.
 ### GitHub Status
 [![Anrag's github stats](https://github-readme-stats.vercel.app/api?username=alphaly2k)](https://github.com/anuraghazra/github-readme-stats)
 ### The tools I'm using
