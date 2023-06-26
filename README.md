@@ -6,7 +6,7 @@
 ### Genshin Impact
 ![](https://genshin-card.getloli.com/12/217609436.png)
 ### GitHub Status
-[![Anrag's github stats](https://github-readme-stats.vercel.app/api?username=alphaly2k)](https://github.com/anuraghazra/github-readme-stats)
+[![Anrag's github stats](https://github-readme-stats.vercel.app/api?username=alphaly2k&count—private=true)](https://github.com/anuraghazra/github-readme-stats)
 ### The tools I'm using
 - [![CSharp](https://img.shields.io/badge/C%23-0B9E0B.svg?style=flat-square&logo=csharp&logoColor=fff)](https://docs.microsoft.com/en-us/dotnet/csharp/) [![C++](https://img.shields.io/badge/C++-649ad2.svg?style=flat-square&logo=cplusplus&logoColor=fff)](https://www.cplusplus.com/)
 - [![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=flat-square&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
