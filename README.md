@@ -1,10 +1,8 @@
 ## Hi there 👋
 - I am a senior high school student from China.
-- I'm learning C++ and Rust now.
+- I'm learning C++ and vue.js now.
 - I can speak Chinese, English and little Japanese(maybe some Esperanto, too).
-- Now I'm a DotNet developer and concentrate on Desktop Development.
-### Genshin Impact
-![](https://genshin-card.getloli.com/12/217609436.png)
+- Now I'm a fullstack developer(?).
 ### GitHub Status
 [![Anrag's github stats](https://github-readme-stats.vercel.app/api?username=alphaly2k&count—private=true)](https://github.com/anuraghazra/github-readme-stats)
 ### The tools I'm using
