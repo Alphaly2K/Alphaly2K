@@ -4,6 +4,7 @@
 - I'm learning C++ and next.js now.
 - I can speak Chinese, English and little Japanese(maybe some Esperanto, too).
 - I'm working on a WebApi project currently.
+
 ## My GitHub Stats
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=alphaly2k&show_icons=true&count_private=true)
