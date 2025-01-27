@@ -18,7 +18,8 @@
 [![CSharp](https://img.shields.io/badge/-C%23-0B9E0B.svg?style=plastic&logo=csharp&logoColor=fff)](https://docs.microsoft.com/en-us/dotnet/csharp/) 
 [![C++](https://img.shields.io/badge/-C++-649AD2.svg?style=plastic&logo=cplusplus&logoColor=fff)](https://www.cplusplus.com/)
 [![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=plastic&logo=go&logoColor=fff)](https://go.dev/)
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=alphaly2k&show_icons=true&locale=en&layout=compact" alt="toplang" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alphaly2k&hide=jupyternotebook)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Backend Programming Framework
 
