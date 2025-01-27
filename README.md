@@ -1,9 +1,9 @@
 # Hi there 👋
 
 - I am a senior high school student from China.
-- I'm learning C++ and next.js now.
+- I'm learning Rust now.
 - I can speak Chinese, English and little Japanese(maybe some Esperanto, too).
-- I'm working on a WebApi project currently.
+- I'm working on interpreter currently.
 
 ## My GitHub Stats
 
@@ -18,6 +18,7 @@
 [![CSharp](https://img.shields.io/badge/-C%23-0B9E0B.svg?style=plastic&logo=csharp&logoColor=fff)](https://docs.microsoft.com/en-us/dotnet/csharp/) 
 [![C++](https://img.shields.io/badge/-C++-649AD2.svg?style=plastic&logo=cplusplus&logoColor=fff)](https://www.cplusplus.com/)
 [![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=plastic&logo=go&logoColor=fff)](https://go.dev/)
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=alphaly2k&show_icons=true&locale=en&layout=compact" alt="toplang" /></p>
 
 ### Backend Programming Framework
 
