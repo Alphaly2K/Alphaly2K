@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- I am a senior high school student from China.
+- 
 - I'm learning Rust now.
 - I can speak Chinese, English and little Japanese(maybe some Esperanto, too).
 - I'm working on interpreter currently.
